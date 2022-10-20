@@ -1,5 +1,7 @@
 ### git
 
+一个学习git的可视化网站：https://learngitbranching.js.org/?locale=zh_CN
+
 - 全局设置
   1. `git config -- global user.name xxx`：设置全局用户名，信息记录在`~/.gitconfig`文件中
   2. `git config --global user.email xxx@xxx.com`：设置全局邮箱地址，信息记录在`~/.gitconfig`文件中

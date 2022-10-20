@@ -32,6 +32,7 @@
 
 - 远程仓库
   1. `git remote add origin XXX`：将本地仓库关联到远程仓库
+  1. `git remote -v`：查看远程仓库连接信息
   2. `git push -u （第一次需要-u以后不需要）`：将当前分支推送到远程仓库
   3. `git push origin branch_name`：将本地的某个分支推送到远程仓库
   4. `git clone XXX`：将远程仓库XXX下载到当前目录

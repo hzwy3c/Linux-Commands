@@ -8,6 +8,7 @@
   3. `git init`：将当前目录配置成git仓库，信息记录在隐藏的.git文件夹中
 - 常用命令
   1. `git add XX`：将XX文件添加到暂存区
+  1. `git add -u`：暂存所有更改，包括删除/更新文件，之后只需要`git commit`提交即可
   2. `git commit -m "备注信息"`：将暂存区的内容提交到当前分支
   3. `git status`：查看仓库状态
   4. `git log`：查看当前分支的所有版本

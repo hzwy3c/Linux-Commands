@@ -49,5 +49,5 @@
   1. `git branch branch_name`：创建新分支	 
   2. `git branch`：查看所有分支和当前所处分支
   3. `git checkout -b branch_name`：创建并切换到`branch_name`这个分支
-  4. `git checkout branch_name`：
+  4. `git checkout branch_name`：切换分支
 

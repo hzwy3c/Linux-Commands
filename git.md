@@ -51,4 +51,6 @@
   2. `git branch`：查看所有分支和当前所处分支
   3. `git checkout -b branch_name`：创建并切换到`branch_name`这个分支
   4. `git checkout branch_name`：切换分支
+  4. `git branch -r`：查看远程分支
+  4. `git branch -D`：删除分支
 

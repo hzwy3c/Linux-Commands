@@ -23,4 +23,6 @@
 
 6. `Ctrl + b d`：先按`Ctrl+b`之后再按`d`，暂时退出session
 
+7. `tmux kill-session -t <session-name>`：根据session名称杀死会话
+
    
